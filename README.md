@@ -83,15 +83,6 @@ alien-rescue-analytics/
 
 ---
 
-## How to Run
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-jupyter notebook notebooks/alien_rescue_analysis.ipynb
-```
-
----
 
 ## Tech Stack
 
