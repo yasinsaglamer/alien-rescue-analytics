@@ -95,23 +95,6 @@ alien-rescue-analytics/
 
 ---
 
-## ▶️ How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/yasinsaglamer/alien-rescue-analytics
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-# 3. Run analysis
-cd notebooks
-python analysis.py
-
-# Outputs saved to ../outputs/figures/
-```
-
----
 
 ## 📈 Visualizations Produced
 
