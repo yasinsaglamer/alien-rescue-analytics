@@ -7,7 +7,7 @@
 
 ---
 
-![Performance Overview](outputs/figures/01_performance_overview.png)
+[Performance Overview](outputs/figures/01_performance_overview.png)
 
 ---
 
