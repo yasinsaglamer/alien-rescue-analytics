@@ -99,7 +99,7 @@ alien-rescue-analytics/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/alien-rescue-analytics
+git clone https://github.com/yasinsaglamer/alien-rescue-analytics
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn
